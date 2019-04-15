@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+title: Lets Get me a Job
+description: My Resume
+author: Michael Vital
+github: michaelvital.com
+about: I'm an upand coming Programmer working on my Azure certification
+
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -15,17 +15,7 @@ collections:
     output: true
     permalink: /project/:path/
 
-social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
-    - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
-    - icon: fa-github
-      link: "https://github.com/agusmakmun"
+
 
 share:
   twitter_username: github.io
